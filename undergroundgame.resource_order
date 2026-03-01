@@ -1,8 +1,9 @@
 {
   "FolderOrderSettings":[
-    {"name":"TileSets","order":4,"path":"folders/TileSets.yy",},
+    {"name":"Levels","order":5,"path":"folders/Levels.yy",},
     {"name":"Objects","order":2,"path":"folders/Objects.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"TileSets","order":4,"path":"folders/TileSets.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_attack","order":7,"path":"objects/obj_attack/obj_attack.yy",},
@@ -14,6 +15,8 @@
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"oSolid","order":3,"path":"objects/oSolid/oSolid.yy",},
     {"name":"oWall","order":2,"path":"objects/oWall/oWall.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
     {"name":"sAttack","order":6,"path":"sprites/sAttack/sAttack.yy",},
     {"name":"sDirt","order":1,"path":"sprites/sDirt/sDirt.yy",},
     {"name":"sDoor","order":11,"path":"sprites/sDoor/sDoor.yy",},
